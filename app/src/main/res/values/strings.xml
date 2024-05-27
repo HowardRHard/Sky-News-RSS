@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sky News RSS</string>
+
+    <string name="feed_title">RSS Category: %1$s</string>
+    <string name="feed_uk">uk</string>
+    <string name="feed_tech">technology</string>
+    <string name="feed_strange">strange</string>
+
+    <string name="news_link_error">https://news.sky.com/story/404</string>
+</resources>
